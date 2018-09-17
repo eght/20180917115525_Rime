@@ -1,0 +1,27 @@
+var:
+  previously_selected_schema: luna_pinyin_simp
+  schema_access_time:
+    bopomofo: 1520411229
+    bopomofo_express: 1520411239
+    bopomofo_tw: 1520411175
+    cangjie5: 1520459827
+    cangjie6: 1517999893
+    combo_pinyin: 1520411249
+    e: 1487393278
+    english: 1487393270
+    f: 1487342162
+    four_corner_method: 1520411407
+    hello: 1486876747
+    luna_pinyin: 1520517876
+    luna_pinyin_fluency: 1506839209
+    luna_pinyin_simp: 1523424430
+    luna_pinyin_tw: 1511249907
+    stroke: 1523424412
+    unicode: 1506553695
+    v1: 1487469776
+    v2: 1487498628
+    v3: 1490253413
+    wubi86: 1520411324
+    wubi_pinyin: 1507503708
+    wubi_trad: 1520411310
+    zhengma: 1520411275

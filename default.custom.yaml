@@ -1,0 +1,25 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Oct  1 14:16:22 2017"
+  rime_version: 1.2.9
+patch:
+  schema_list:
+    - {schema: bopomofo}
+    - {schema: bopomofo_express}
+    - {schema: bopomofo_tw}
+    - {schema: cangjie5}
+    - {schema: cangjie6}
+    - {schema: combo_pinyin}
+    - {schema: four_corner_method}
+    - {schema: luna_pinyin}
+    - {schema: luna_pinyin_fluency}
+    - {schema: luna_pinyin_simp}
+    - {schema: luna_pinyin_tw}
+    - {schema: stroke}
+    - {schema: unicode}
+    - {schema: wubi86}
+    - {schema: wubi_pinyin}
+    - {schema: wubi_trad}
+    - {schema: zhengma}
